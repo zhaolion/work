@@ -1,5 +1,15 @@
 # gocraft/work [![GoDoc](https://godoc.org/github.com/gocraft/work?status.png)](https://godoc.org/github.com/gocraft/work)
 
+## Notes
+
+This code base fork from [gocraft/work](https://https://github.com/gocraft/work).
+
+I will try to improve it in any way (maybe it will broke some API design).
+
+You can check issues in [here](doc/issues.md)
+
+## Info
+
 gocraft/work lets you enqueue and processes background jobs in Go. Jobs are durable and backed by Redis. Very similar to Sidekiq for Go.
 
 * Fast and efficient. Faster than [this](https://www.github.com/jrallison/go-workers), [this](https://www.github.com/benmanns/goworker), and [this](https://www.github.com/albrow/jobs). See below for benchmarks.
