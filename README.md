@@ -2,7 +2,7 @@
 
 ## Notes
 
-This code base fork from [gocraft/work](https://https://github.com/gocraft/work).
+This code base fork from [gocraft/work](https://github.com/gocraft/work).
 
 I will try to improve it in any way (maybe it will broke some API design).
 
