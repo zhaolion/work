@@ -13,6 +13,7 @@ require (
 	github.com/dchest/uniuri v0.0.0-20160212164326-8902c56451e9 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/garyburd/redigo v1.6.0 // indirect
+	github.com/go-redis/redis v6.15.5+incompatible // indirect
 	github.com/gocraft/health v0.0.0-20170925182251-8675af27fef0
 	github.com/gocraft/web v0.0.0-20190207150652-9707327fb69b
 	github.com/gocraft/work v0.5.1
